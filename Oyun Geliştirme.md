@@ -16,7 +16,7 @@ ve aynı zamanda yapılan işten keyif almak için iyi bir öğrenme yoludur.
 Mevcut bir oyun projemiz olduğundan oyun içerisinde kullanılan
 algoritmaları ve izlenen yolları pratikte direkt olarak proje üstünde
 gösterme imkanımız olacaktır.Ve sen problem çözücü olarak oyun
-geliştirme sürecinde oluşacak bir çok problemle karşılaştığında nasıl
+geliştirme sürecinde oluşacak birçok problemle karşılaştığında nasıl
 bir yol izlemen gerektiği konusunda daha iyi bir fırsatın olacaktır.
 
 Peki neden oyun geliştirme üzerinden algoritma ve yazılım öğrenmeyi

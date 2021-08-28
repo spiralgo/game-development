@@ -67,8 +67,8 @@ birlikte geliştireceğiz.
 
 ## Eğitim ile Beraber Sen de Projenin bir parçası olacak mısın ?
 
-Eğitimini güzel bir şekilde öğrenip bizimle beraber problem çözüyorsan
-ve uyum sağlıyorsan,sen de bizim projemizin bir parçası olacaksın hem
+Eğitimini güzel bir şekilde öğrenip bizimle beraber problem çözüyorsan,aynı zamanda
+aktifsen ve uyum sağlıyorsan,sen de bizim projemizin bir parçası olacaksın hem
 mevcut projede hem de gelecekteki projelerde şans bulacaksın. Bu sayede
-hem keyif alarak öğrenip hem de bu işten hızlıca para kazanabilme
-imkanında olacaktır.
+hem keyif alarak algoritma ve oyun geliştirme öğrenebilme fırsatı 
+hem de hızlıca para kazanma fırsatı yakalayıp geleceğini inşaa edebileceksin.

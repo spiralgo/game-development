@@ -1,4 +1,4 @@
-Neden Oyun Geliştirme İle Beraber Algoritma Öğrenmeliyiz?
+## Neden Oyun Geliştirme İle Beraber Algoritma Öğrenmeliyiz?
 
 Neden algoritma öğrenmeliyiz sorusunun cevabını,spiralgo tanıtımında
 yeterince yaptığımız için direkt olarak oyun geliştirme üzerinden örnek
@@ -36,14 +36,14 @@ yeni öğrenen bir problem çözücü yazdığı kodun tam olarak nasıl bir
 işleve sahip olduğunu algılayabilme imkanına sahip olacağı için
 normalden daha hızlı öğrenebilme şansına da sahip olacaktır.
 
-Dersin anlatımı nasıl olacak?
+## Dersin anlatımı nasıl olacak?
 
 Dersin anlatımı terimleri ve kullanılan herşey İngilizce olacaktır
 fakat,kullanılan herşey açıklanarak devam edilecektir.Görsel bir iş
 yapacağımız için teorik açıdan değilde pratik olarak gösterebilme ve
 açıklayabilme şansımızı daima kullanacağız.
 
-Spiralgo ile Oyun geliştirme kusursuz mu ?
+## Spiralgo ile Oyun geliştirme kusursuz mu ?
 
 Kesinlikle hayır,oluşacak problemlere beraber odaklanarak beraber
 çözümler arayıp iyi bir sinerji ile birlikte,senkronize olarak problem
@@ -54,7 +54,7 @@ ortamında Oyun geliştirme ile ilgili elle tutulur bir Türkçe kaynak
 olmadığı için,algoritma ve oyun geliştirme konusunda ilerlemek isteyen
 problem çözücülerle beraber öğrenmek gibi amacımız olacaktır.
 
-Projeniz ve siz yeterlilik olarak ne durumdasınız ?
+## Projeniz ve siz yeterlilik olarak ne durumdasınız ?
 
 Proje yaklaşık 2,5 senedir devam etmektedir,LinkedIn gibi sosyal
 platformlarda düzenli olarak oyun içerisinden videolar
@@ -65,7 +65,7 @@ geliştirmeleri basitleştilmiş şekilde, videolarda açıklayarak
 göstereceğiz.Eksik olan kısımları ise problem çözücü olan seninle
 birlikte geliştireceğiz.
 
-Eğitim ile Beraber Sen de Projenin bir parçası olacak mısın ?
+## Eğitim ile Beraber Sen de Projenin bir parçası olacak mısın ?
 
 Eğitimini güzel bir şekilde öğrenip bizimle beraber problem çözüyorsan
 ve uyum sağlıyorsan,sen de bizim projemizin bir parçası olacaksın hem

@@ -44,39 +44,46 @@ oyun geliştirme ile algoritma çalışmanın avantajını rahatlıkla görebili
 görseldeki kod satırımızda yazılan kodlarımızı,ikinci görselde test ederek daha açıklayıcı ve öğretici
 bir biçimde gösterdik.
 
-## Dersin anlatımı nasıl olacak?
+## Dersin Anlatımı Nasıl Olacak?
 
 Dersin anlatımı terimleri ve kullanılan herşey İngilizce olacaktır
-fakat,kullanılan herşey açıklanarak devam edilecektir.Görsel bir iş
-yapacağımız için teorik açıdan değilde pratik olarak gösterebilme ve
-açıklayabilme şansımızı daima kullanacağız.
+fakat,kullanılan herşey açıklanarak devam edilecektir.Derslerin akışı ise yukarıda gösterdiğimiz şekilde,
+tamamıyla pratikte test ederek ve yazacağımız kodların görsel karşılıklarını görerek devam edeceğiz.
+Oyunun mekaniklerini C++ ile geliştirdiğimiz için
+eğitimde de C++ üzerinden olacaktır.
 
-## Spiralgo ile Oyun geliştirme kusursuz mu ?
+## Spiralgo İle Oyun Geliştirme Kusursuz Mu ?
 
 Kesinlikle hayır,oluşacak problemlere beraber odaklanarak beraber
 çözümler arayıp iyi bir sinerji ile birlikte,senkronize olarak problem
-çözmeye odaklanacağız. Spiralgo kusursuz mu?Sorusunda da cevapladığımız
+çözmeye odaklanacağız.Amacımız öğreticiler ve öğrenecek kişiler arasında
+senkron bir şekilde bir bağ kurabilmek ve düzenli olarak problemlerin çözümü için
+beraber enerji harcamak üzerine olacaktır.Aynı zamanda sosyal ağlar üzerinden
+asenkron bir şekilde çalışmayıda öğrenmek olacaktır.Spiralgo kusursuz mu?Sorusunda da cevapladığımız
 gibi;Doğrusu, hiçbir sistem kusursuz değildir. Her sistem, varlığını
 sürdürmek için sürekli olarak problem çözmek zorundadır. İnternet
-ortamında Oyun geliştirme ile ilgili elle tutulur bir Türkçe kaynak
+ortamında oyun geliştirme ile ilgili elle tutulur bir Türkçe kaynak
 olmadığı için,algoritma ve oyun geliştirme konusunda ilerlemek isteyen
 problem çözücülerle beraber öğrenmek gibi amacımız olacaktır.
 
-## Projeniz ve siz yeterlilik olarak ne durumdasınız ?
+## Projeniz Ve Siz Yeterlilik Olarak Ne Durumdasınız ?
 
-Proje yaklaşık 2,5 senedir devam etmektedir,LinkedIn gibi sosyal
-platformlarda düzenli olarak oyun içerisinden videolar
-yayınlamaktayız..Oyunun bütüm mekaniklerini C++ ile geliştirdiğimiz için
-eğitimde de C++ üzerinden olacaktır.Oyun önümüzdeki kış sezonunda
-muhtemelen bitmiş olacaktır.Oyun içerisinde sürecinde yapılan
+Proje yaklaşık iki senedir devam etmektedir,LinkedIn gibi sosyal
+platformlarda oyun içerisinden videolar yayınlamaktayız.Oyun önümüzdeki
+kış sezonunda muhtemelen bitmiş olacaktır.Oyun içerisinde ve sürecinde yapılan
 geliştirmeleri basitleştilmiş şekilde, videolarda açıklayarak
-göstereceğiz.Eksik olan kısımları ise problem çözücü olan seninle
-birlikte geliştireceğiz.
+göstereceğiz.Projeden bahsedecek olursak RPG bir oyun geliştirme sürecindeyiz,
+RPG oyunlar mekanik ve detaylar konusunda epey karmaşık problemler içerdiği için
+ilgimi her zaman daha çok çekmiştir.Bu yüzden öğrenme sürecinde RPG bir oyun geliştirmeye
+çalışarak öğrenmeyi deneyimleme şansım oldu.Daha fazla problem çözme fırsatının bulunduğu 
+RPG oyunumuzun problem çözücü olan senin içinde çok iyi bir deneyim ve öğrenme şansı olduğundan,
+hiç şüphe yoktur.Eksik olan kısımları ve ise problem çözücü olan seninle birlikte geliştireceğiz.
 
-## Eğitim ile Beraber Sen de Projenin bir parçası olacak mısın ?
+## Eğitim İle Beraber Sen de Projenin Bir Parçası Olacak Mısın ?
 
-Eğitimini güzel bir şekilde öğrenip bizimle beraber problem çözüyorsan,aynı zamanda
-aktifsen ve uyum sağlıyorsan,sen de bizim projemizin bir parçası olacaksın hem
+Eğitimini güzel bir şekilde kavrayıp bizimle beraber problem çözüyorsan,aynı zamanda
+problemleri seninle beraber tayin edip seninle beraber çözüm yolları arıyorsak ve oyun geliştirme
+ağımızın içerisin de yardımlaşmayı benimsemiş isen,sen de bizim projemizin bir parçası olacaksın hem
 mevcut projede hem de gelecekteki projelerde şans bulacaksın. Bu sayede
 hem keyif alarak algoritma ve oyun geliştirme öğrenebilme fırsatı 
 hem de hızlıca para kazanma fırsatı yakalayıp geleceğini inşaa edebileceksin.

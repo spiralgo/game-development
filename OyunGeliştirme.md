@@ -27,7 +27,7 @@ olma yolunda ilerlemektedir.Teknik yönden cevap verecek olursak yeni
 öğrenen bir problem çözücü için yazılımın ve algoritmanın
 karmaşıklıklarını daha eğlenceli hale getirip,daha çok motive edebilmek
 ve aynı zamanda zihinde kalıcı bir yöntem olduğu için demek ise daha doğru
-olacaktır.Şimdi oyun içerisinden ve kodlama ekranımızdan örneklendireceğiz
+olacaktır.Şimdi oyun içerisinden ve kodlama ekranımızdan örneklendireceğiz,
 
 ![test2](https://user-images.githubusercontent.com/53279903/131217402-76d97813-544f-4142-bab6-df9bda6c1640.png)
 
@@ -48,7 +48,7 @@ Dersin anlatımı terimleri ve kullanılan herşey İngilizce olacaktır
 fakat,kullanılan herşey açıklanarak devam edilecektir.Derslerin akışı ise yukarıda gösterdiğimiz şekilde,
 tamamıyla pratikte test ederek ve yazacağımız kodların görsel karşılıklarını görerek devam edeceğiz.
 Oyunun mekaniklerini C++ ile geliştirdiğimiz için
-eğitimde C++ üzerinden olacaktır.
+eğitimde de C++ üzerinden olacaktır.
 
 ## Spiralgo İle Oyun Geliştirme Kusursuz Mu ?
 

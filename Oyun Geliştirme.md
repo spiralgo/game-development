@@ -28,13 +28,21 @@ olma yolunda ilerlemektedir.Teknik yönden cevap verecek olursak yeni
 öğrenen bir problem çözücü için yazılımın ve algoritmanın
 karmaşıklıklarını daha eğlenceli hale getirip,daha çok motive edebilmek
 ve daha zihinde kalıcı bir yöntem olduğu için demek ise daha doğru
-olacaktır. Örnek vermek gerekirse,bir program kodlarken bizler
-nesneler,objeler türetiriz ve onları kullanırız.Oyun geliştirme
-tarafında ise bu yaratılan obje ve nesneleri dinamik olarak görsel bir
-şekilde görebilme ve test edebilme imkanımız olacaktır.Bunun avantajı
-yeni öğrenen bir problem çözücü yazdığı kodun tam olarak nasıl bir
-işleve sahip olduğunu algılayabilme imkanına sahip olacağı için
-normalden daha hızlı öğrenebilme şansına da sahip olacaktır.
+olacaktır.Şimdi ise oyun içerisinden ve kodlama ekranımızdan örneklendireceğiz,
+
+![test2](https://user-images.githubusercontent.com/53279903/131217402-76d97813-544f-4142-bab6-df9bda6c1640.png)
+
+Bu kısımda oyun içerisinde ki karakterimizin zıplaması için bir fonksiyon yazılmıştır.
+
+![test1](https://user-images.githubusercontent.com/53279903/131217406-78fdf39d-2ee1-426a-bb60-819a6b2f4c7c.png)
+
+Bu kısımda ise oyun içerisinde zıplama yapan karakterimizin ekran
+görüntüsü gösterilmiştir.
+
+Yani yazılan kodlarımızı ne kadar karmaşık olursa olsun derin bir görsel bir karşılıkla test edebileceğimiz için
+oyun geliştirme ile algoritma çalışmanın avantajını rahatlıkla görebiliriz.Örneklendirdiğimiz şekilde,ilk 
+görseldeki kod satırımızda yazılan kodlarımızı,ikinci görselde test ederek daha açıklayıcı ve öğretici
+bir biçimde gösterdik.
 
 ## Dersin anlatımı nasıl olacak?
 

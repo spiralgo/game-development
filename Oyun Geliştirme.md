@@ -1,9 +1,9 @@
-## Neden Oyun Geliştirme İle Beraber Algoritma Öğrenmeliyiz?
+Neden Oyun Geliştirme İle Beraber Algoritma Öğrenmeliyiz?
 
 Neden algoritma öğrenmeliyiz sorusunun cevabını,spiralgo tanıtımında
 yeterince yaptığımız için direkt olarak oyun geliştirme üzerinden örnek
 vereceğiz. Öğrenme aşamasında olan kişinin veya kişilerin öğrendiği
-algoritmaları ve kodları daha iyi kavramak oldukça önemlidir.Oyun
+algoritmaları ve kodları daha iyi kavrayabilmek oldukça önemlidir.Oyun
 motorları sayesinde kullanılan algoritma ve kodların görsel bir
 karşılığını dinamik olarak test edip görebilme imkanımız olduğu için
 algoritmaları Oyun geliştirme ile beraber öğrenmek oldukça akıllıca
@@ -36,14 +36,14 @@ yeni öğrenen bir problem çözücü yazdığı kodun tam olarak nasıl bir
 işleve sahip olduğunu algılayabilme imkanına sahip olacağı için
 normalden daha hızlı öğrenebilme şansına da sahip olacaktır.
 
-## Dersin anlatımı nasıl olacak?
+Dersin anlatımı nasıl olacak?
 
 Dersin anlatımı terimleri ve kullanılan herşey İngilizce olacaktır
 fakat,kullanılan herşey açıklanarak devam edilecektir.Görsel bir iş
 yapacağımız için teorik açıdan değilde pratik olarak gösterebilme ve
 açıklayabilme şansımızı daima kullanacağız.
 
-## Spiralgo ile Oyun geliştirme kusursuz mu ?
+Spiralgo ile Oyun geliştirme kusursuz mu ?
 
 Kesinlikle hayır,oluşacak problemlere beraber odaklanarak beraber
 çözümler arayıp iyi bir sinerji ile birlikte,senkronize olarak problem
@@ -65,10 +65,11 @@ geliştirmeleri basitleştilmiş şekilde, videolarda açıklayarak
 göstereceğiz.Eksik olan kısımları ise problem çözücü olan seninle
 birlikte geliştireceğiz.
 
-## Eğitim ile Beraber Sen de Projenin bir parçası olacak mısın ?
+Eğitim ile Beraber Sen de Projenin bir parçası olacak mısın ?
 
-Eğitimini güzel bir şekilde öğrenip bizimle beraber problem çözüyorsan
-ve uyum sağlıyorsan,sen de bizim projemizin bir parçası olacaksın hem
+Eğitimini güzel bir şekilde öğrenip bizimle beraber problem çözüyorsan,aynı zamanda
+aktifsen ve uyum sağlıyorsan,sen de bizim projemizin bir parçası olacaksın hem
 mevcut projede hem de gelecekteki projelerde şans bulacaksın. Bu sayede
-hem keyif alarak öğrenip hem de bu işten hızlıca para kazanabilme
-imkanında olacaktır.
+hem keyif alarak algoritma ve oyun geliştirme öğrenebilme fırsatı 
+hem de hızlıca para kazanma fırsatı yakalayıp geleceğini inşaa edebileceksin.
+

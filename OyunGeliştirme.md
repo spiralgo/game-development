@@ -1,9 +1,9 @@
 ## Neden Oyun Geliştirme İle Beraber Algoritma Öğrenmeliyiz?
 
 Neden algoritma öğrenmeliyiz sorusunun cevabını,spiralgo tanıtımında
-yeterince yaptığımız için direkt olarak oyun geliştirme üzerinden örnek
+yeterince açıkladığımız için direkt olarak oyun geliştirme üzerinden örnek
 vereceğim. Öğrenme aşamasında olan kişinin veya kişilerin algoritmaları 
-ve kodları daha iyi kavramak oldukça önemlidir.Oyunmotorları sayesinde
+ve kodları daha iyi kavraması oldukça önemlidir.Oyun motorları sayesinde
 kullanılan algoritma ve kodların görsel karşılığını dinamik olarak test edip görebilme imkanımız olduğu için
 algoritmaları Oyun geliştirme ile beraber öğrenmek oldukça akıllıca
 olacaktır.Biz eğitimin de algoritmaların da eğlenceli ve daha motive
@@ -19,12 +19,17 @@ geliştirme sürecinde oluşacak birçok problemle karşılaştığında nasıl
 bir yol izlemen gerektiği konusunda daha iyi bir fırsatın olacaktır.
 
 Peki neden oyun geliştirme üzerinden algoritma ve yazılım öğrenmeyi
-tercih edip daha sonra,proje geliştirme ve öğrenilen bilgiyi paylaşmayı
-tercih ettik sorusu muhâkkak sorulacaktır.Cevap aslında oldukça basit Oyun geliştirme ve Oyun
-terminolojisi dünya geleceği için oldukça önemli olma yolunda
+tercih edip daha sonra ise,proje geliştirme ve öğrenilen bilgiyi paylaşmayı
+tercih ettik sorusu muhâkkak sorulacaktır.Cevap aslında oldukça basit oyun geliştirme ve oyun
+endüstrisi dünya geleceği için oldukça önemli olma yolunda
 ilerlemektedir,aynı zamanda her geçen gün çok daha katma değerli bir iş
-olma yolunda ilerlemektedir.Teknik yönden cevap verecek olursak yeni
-öğrenen bir problem çözücü için yazılımın ve algoritmanın
+olma yolunda da ilerlemektedir.Ve ülkemizde maalesef C++ ve Unreal Engine oyun motoru üzerinden,
+geliştirme yapan kişi sayısı bile epey azdır.Bu yüzden hayali ve ilgisi olan kişi için Türkçe kaynak
+yetersizdir.Biz de uzun vadede bizimle çalışacak olan kişileri keşfetme ve bu endüstri üzerinde 
+Türkiye'de mevcut ilgiyi merak etmekteyiz.Aslında burada anlaşılacağı üzere eğitim para kazanma mentalitesinden
+daha çok hem ilgisi olan kişiler için bir imkan sunabilmeyi hedeflemekteyiz.Ayrıca oyun geliştirmeyi bizimle beraber
+belirli bir seviyede öğrenip başka ülkelerde iş yapabilme hayali kuran kişiler için de imkan yaratmayı hedeflemekteyiz.
+Teknik yönden cevap vermek gerekirse,öğrenmeye aday  bir problem çözücü için yazılımın ve algoritmanın
 karmaşıklıklarını daha eğlenceli hale getirip,daha çok motive edebilmek
 ve aynı zamanda zihinde kalıcı bir yöntem olduğu için demek ise daha doğru
 olacaktır.Şimdi oyun içerisinden ve kodlama ekranımızdan örneklendireceğiz,
@@ -55,11 +60,11 @@ eğitimde de C++ üzerinden olacaktır.
 Spiralgo kusursuz mu?Sorusunda da cevapladığımız
 gibi;Doğrusu, hiçbir sistem kusursuz değildir. Her sistem, varlığını
 sürdürmek için sürekli olarak problem çözmek zorundadır.
-Spiralgo İle Oyun Geliştirme Kusursuz Mu ?Kesinlikle hayır,oluşacak problemlere beraber odaklanarak beraber
-çözümler arayıp iyi bir sinerji ile birlikte,senkronize olarak problem
+Spiralgo İle Oyun Geliştirme Kusursuz Mu ?Kesinlikle hayır,oluşacak problemlere beraber odaklanarak
+çözümler arayıp iyi bir sinerji yaratmak ve daha sonra senkronize olarak problem
 çözmeye odaklanacağız.Amacımız öğreticiler ve öğrenecek kişiler arasında
 senkron bir şekilde bir bağ kurabilmek ve düzenli olarak problemlerin çözümü için
-beraber enerji harcamak üzerine olacaktır.Aynı zamanda sosyal ağlar üzerinden
+beraber enerji harcama üzerine olacaktır.Aynı zamanda sosyal ağlar üzerinden
 asenkron bir şekilde çalışmanında zeminini hazırlamak olacaktır.
 
 ## Projeniz Ve Siz Yeterlilik Olarak Ne Durumdasınız ?
@@ -73,7 +78,7 @@ RPG oyunlar mekanik ve detaylar konusunda epey karmaşık problemler içerdiği 
 ilgimi her zaman daha çok çekmiştir.Bu yüzden öğrenme sürecinde RPG bir oyun geliştirmeye
 çalışarak öğrenmeyi deneyimleme şansım oldu.Daha fazla problem çözme fırsatının bulunduğu 
 RPG oyunumuzun problem çözücü olan senin içinde çok iyi bir deneyim ve öğrenme şansı olduğundan,
-hiç şüphe yoktur.Eksik olan kısımları ve ise problem çözücü olan seninle birlikte geliştireceğiz.
+hiç şüphe yoktur.
 
 ## Eğitim İle Beraber Sen de Projenin Bir Parçası Olacak Mısın ?
 
@@ -83,3 +88,29 @@ ağımızın içerisin de yardımlaşmayı benimsemiş isen,sen de bizim projemi
 mevcut projede hem de gelecekteki projelerde şans bulacaksın. Bu sayede
 hem keyif alarak algoritma ve oyun geliştirme öğrenebilme fırsatı 
 hem de hızlıca para kazanma fırsatı yakalayıp geleceğini inşaa edebileceksin.
+
+## Eğitimden Kazanılan Para İle Ne Yapacağız?
+
+Eğitimden kazandığımız para ile tekrardan eğitimin kalitesini arttırmak için harcayacağız.
+Eğitimden kazandığımız para ile siz eğitimi satın alacak kişiler için daha farklı projeler,
+yaratılıp orada sizlerin iş üzerinde pratikte tecrübeleri arttırılacaktır.Yani biz aslında
+tek bir eğitim geliştirip ve daha sonra yayınlayıp ondan para kazanıp kenara çekilmek yerine,algoritma
+ve oyun endüstrisi üzerinden kodlama yapacak olan arkadaşlara daha farklı projeler,görevler vererek
+onları iş dünyasına hazırlamış olacağız.
+
+## Oyun Geliştirme İle Beraber Algoritma Ve Yazılım Öğrenmenin Avantajları Ne Olacak?
+
+Mevcut olarak algoritma ve yazılım öğrenebilmek için bir çok yöntem bulunmaktadır.Fakat,
+bizim düşüncemiz en etkin yol oyun geliştirerek yazılım ve algoritma öğrenmek olacaktır.Doğrusu öğrenme
+sürecinin en başarılı bir şekilde devam edebilmesi ve bilgiyi öğrenecek olan kişinin motive kalabilmesi
+için o kişinin işten keyif alması oldukça önemlidir.Algoritma ve yazılımı yeni öğrenen bir kişi için algoritmalar
+kafa karıştırıcı veya karmaşık gelebilir,dolayısıyla motivasyon kaybı yaşayabilir.Bu yüzden öğrenme sürecinde
+olan kişiler için  öğrendiklerini dinamik olarak bir oyun içerisinde belirli bir görsel karşılık ile gözlem yapabilir. 
+Ve daha sonra oyun içerisinde test edip görerek,öğrenme sürecini daha akıcı hâle getirebilir.
+Anlaşılacağı üzere öğrenme süreci boyunca kişinin öğrendiği her bilgiyi oyun içerisinden test ederek,pratikte ki 
+imkanıyla birlikte motivasyon kaybı yaşamadan öğrenebilecektir.Sonuç olarak hem daha başarılı bir 
+öğrenebilme süreci hem de bu süreçten keyif alarak öğrenebilme imkanı bulacaktır.En önemli sebebi 
+ise öğrenme sürecini oyun ile beraber yapan kişi bu süreçte oyun geliştirmeyi de öğreneceği 
+için enerji harcamadan öğrendiği bilgiler ile mâddi kazançta sağlama imkanı bulacaktır.
+
+

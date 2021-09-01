@@ -8,7 +8,7 @@ kullanılan algoritma ve kodların görsel karşılığını dinamik olarak test
 algoritmaları oyun geliştirme ile beraber öğrenmek oldukça akıllıca
 olacaktır. Biz eğitimin de algoritmaların da eğlenceli ve daha motive
 edici olması açısından oyunlaştırılması taraftarıyız. Örnek vermek
-gerekirse hali hazırda kullandığımız Unreal Engine oyun motorunun içerisinde
+gerekirse halihazırda kullandığımız Unreal Engine oyun motorunun içerisinde
 kullandığımız C++ programlama dili ile birlikte algoritmaları kavramak
 ve aynı zamanda yapılan işten keyif almak için iyi bir öğrenme yoludur.
 

@@ -117,7 +117,7 @@ sürecinin en başarılı bir şekilde devam edebilmesi ve bilgiyi öğrenecek o
 için o kişinin işten keyif alması oldukça önemlidir.Algoritma ve yazılımı yeni öğrenen bir kişi için algoritmalar
 kafa karıştırıcı veya karmaşık gelebilir,dolayısıyla motivasyon kaybı yaşayabilir.Bu yüzden öğrenme sürecinde
 olan kişiler için  öğrendiklerini dinamik olarak bir oyun içerisinde belirli bir görsel karşılık ile gözlem yapabilir. 
-Ve daha sonra oyun içerisinde test ederek,öğrenme sürecini daha akıcı hâle getirebilir.
+Daha sonra oyun içerisinde test ederek,öğrenme sürecini daha akıcı hâle getirebilir.
 Anlaşılacağı üzere öğrenme süreci boyunca kişinin öğrendiği her bilgiyi oyun içerisinden test ederek,pratikteki 
 imkanıyla birlikte motivasyon kaybı yaşamadan öğrenebilecektir.Sonuç olarak hem daha başarılı bir 
 öğrenebilme süreci hem de bu süreçten keyif alarak öğrenebilme imkanı bulacaktır.En önemli sebebi 

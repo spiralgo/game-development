@@ -80,7 +80,7 @@ içerisin de geliştirdiğim oyun ile alakalı mekanikleri öğrenme fırsatım 
 Oyunun grafiksel ve mekaniksel kısımlarını yeterince iyi bir seviyeye getirdim.
 Bu bağlamda LinkedIn gibi platformlarda ise oyunla ilgili görüntüler paylaştım.
 Bir süredir LinkedIn üzerinden video güncellemesi yapamadım. Şimdi ise
-YouTube üzerinden yayınlama yapacağım için projeyi tamamlamayı
+YouTube üzerinden yayın yapacağım için projeyi tamamlamak
 ve temiz bir şekilde trailer videosu haline getirmek için uğraşmaktayım.
 Oyun önümüzdeki kış sezonunda muhtemelen bitmiş olacaktır. Oyun içerisinde ve sürecinde yapılan
 geliştirmeleri basitleştilmiş şekilde, videolarda açıklayarak

@@ -58,7 +58,7 @@ eğitimde de C++ programlama dili üzerinden olacaktır.
 ## Spiralgo ile oyun geliştirme kusursuz mu?
 
 Spiralgo kusursuz mu?Sorusunda da cevapladığımız
-gibi;Doğrusu, hiçbir sistem kusursuz değildir. Her sistem, varlığını
+gibi; Doğrusu, hiçbir sistem kusursuz değildir.  Her sistem, varlığını
 sürdürmek için sürekli olarak problem çözmek zorundadır.
 Spiralgo İle Oyun Geliştirme Kusursuz Mu ? Kesinlikle hayır, oluşacak problemlere beraber odaklanarak
 çözümler arayıp iyi bir sinerji yaratmak ve daha sonra senkronize olarak problem

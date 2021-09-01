@@ -104,7 +104,7 @@ hem de hızlıca para kazanma fırsatı yakalayıp geleceğini inşaa edebilecek
 
 Eğitimden kazandığımız para ile tekrardan eğitimin kalitesini arttırmak için harcayacağız.
 Eğitimden kazandığımız para ile siz eğitimi satın alacak kişiler için daha farklı projeler,
-yaratılıp orada iş üzerinde pratikte tecrübeleriniz arttırılacaktır.Yani biz aslında
+yaratılıp orada iş üzerinde pratikte tecrübeleriniz artırılacaktır. Yani biz aslında
 tek bir eğitim geliştirip ve daha sonra yayınlayıp ondan para kazanıp kenara çekilmek yerine,algoritma
 ve oyun endüstrisi üzerinden kodlama yapacak olan arkadaşlara daha farklı projeler,görevler vererek
 onları iş dünyasına hazırlamış olacağız.Kısacası win-win stratejisini gütmüş olacağız.

@@ -73,7 +73,7 @@ olacaktır.
 
 Yaklaşık iki senedir oyun geliştirme üzerinde çalışıyorum.
 Daha öncesinde algoritma ve yazılım üzerine çalışmalar yaptım.
-Ve bu sayede hızlı bir şekilde adapte olabildim. Daha sonra,
+Bu sayede hızlı bir şekilde adapte olabildim. Daha sonra,
 geliştirmeye başladığım oyun ile alakalı Unreal Engine componentlerini
 öğrendim. Ayrıca sadece C++ üzerinden kodlama ile devam etmeyip, Unreal Engine
 içerisin de geliştirdiğim oyun ile alakalı mekanikleri öğrenme fırsatım oldu.

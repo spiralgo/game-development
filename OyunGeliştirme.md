@@ -111,7 +111,7 @@ onları iş dünyasına hazırlamış olacağız.Kısacası win-win stratejisini
 
 ## Oyun geliştirme ile beraber algoritma ve yazılım öğrenmenin avantajları ne olacak?
 
-Mevcut olarak algoritma ve yazılım öğrenebilmek için bir çok yöntem bulunmaktadır.Fakat,
+Mevcut olarak algoritma ve yazılım öğrenebilmek için bir çok yöntem bulunmaktadır. Fakat,
 bizim düşüncemiz en etkin yol oyun geliştirerek yazılım ve algoritma öğrenmek olacaktır.Doğrusu öğrenme
 sürecinin en başarılı bir şekilde devam edebilmesi ve bilgiyi öğrenecek olan kişinin motive kalabilmesi
 için o kişinin işten keyif alması oldukça önemlidir.Algoritma ve yazılımı yeni öğrenen bir kişi için algoritmalar

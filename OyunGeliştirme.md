@@ -78,7 +78,7 @@ geliştirmeye başladığım oyun ile alakalı Unreal Engine componentlerini
 öğrendim. Ayrıca sadece C++ üzerinden kodlama ile devam etmeyip, Unreal Engine
 içerisin de geliştirdiğim oyun ile alakalı mekanikleri öğrenme fırsatım oldu.
 Oyunun grafiksel ve mekaniksel kısımlarını yeterince iyi bir seviyeye getirdim.
-Bu bağlamda LinkedIn gibi platformlarda ise oyun için görüntüle paylaştım.
+Bu bağlamda LinkedIn gibi platformlarda ise oyunla ilgili görüntüler paylaştım.
 Bir süredir LinkedIn üzerinden video güncellemesi yapamadım. Şimdi ise
 YouTube üzerinden yayınlama yapacağım için projeyi tamamlamayı
 ve temiz bir şekilde trailer videosu haline getirmek için uğraşmaktayım.

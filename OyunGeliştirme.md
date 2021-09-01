@@ -30,7 +30,7 @@ Türkiye'de mevcut ilgiyi merak etmekteyiz. Aslında burada anlaşılacağı üz
 daha çok ilgisi olan kişiler için bir imkan sunabilmeyi hedeflemekteyiz. Ayrıca oyun geliştirmeyi bizimle beraber
 belirli bir seviyede öğrenip başka ülkelerde iş yapabilme hayali kuran kişiler için de imkan yaratmayı hedeflemekteyiz.
 Teknik yönden cevap vermek gerekirse, öğrenmeye aday  bir problem çözücü için yazılımın ve algoritmanın
-karmaşıklıklarını daha eğlenceli hale getirip,daha çok motive edebilmek
+karmaşıklıklarını daha eğlenceli hale getirip daha çok motive edebilmek
 ve aynı zamanda zihinde kalıcı bir yöntem olduğu için demek ise daha doğru
 olacaktır. Şimdi oyun içerisinden ve kodlama ekranımızdan örneklendireceğiz,
 

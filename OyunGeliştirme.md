@@ -66,7 +66,7 @@ Spiralgo İle Oyun Geliştirme Kusursuz Mu ? Kesinlikle hayır, oluşacak proble
 senkron bir şekilde bir bağ kurabilmek ve düzenli olarak problemlerin çözümü için
 beraber enerji harcama üzerine olacaktır. Aynı zamanda sosyal ağlar üzerinden
 asenkron bir şekilde çalışmanında zeminini hazırlamak olacaktır.
-Bu bağlamda kusurlarımızı da bize katılan arkadaşlarla geliştirme,şansımız
+Bu bağlamda kusurlarımızı da bize katılan arkadaşlarla geliştirme şansımız
 olacaktır.
 
 ## Sizin ve projenizin yeterlilik durumu nedir ?

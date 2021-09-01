@@ -24,7 +24,7 @@ tercih ettik sorusu muhâkkak sorulacaktır. Cevap aslında oldukça basit oyun 
 endüstrisi dünya geleceği için oldukça önemli olma yolunda
 ilerlemektedir, aynı zamanda her geçen gün çok daha katma değerli bir iş
 olma yolunda da ilerlemektedir. Ve ülkemizde maalesef C++ ve Unreal Engine oyun motoru üzerinden,
-geliştirme yapan kişi sayısı bile epey azdır.Bu yüzden hayali ve ilgisi olan kişi için Türkçe kaynak
+geliştirme yapan kişi sayısı bile epey azdır. Bu yüzden hayali ve ilgisi olan kişi için Türkçe kaynak
 yetersizdir. Biz de uzun vadede bizimle çalışacak olan kişileri keşfetme ve bu endüstri üzerinde 
 Türkiye'de mevcut ilgiyi merak etmekteyiz. Aslında burada anlaşılacağı üzere eğitim para kazanma mentalitesinden
 daha çok ilgisi olan kişiler için bir imkan sunabilmeyi hedeflemekteyiz. Ayrıca oyun geliştirmeyi bizimle beraber

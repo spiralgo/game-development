@@ -49,7 +49,7 @@ bir biçimde gösterdik.
 
 ## Dersin anlatımı nasıl olacak?
 
-Dersin anlatımı terimleri ve kullanılan herşey İngilizce olacaktır
+Dersin anlatımı terimleri ve kullanılan her şey İngilizce olacaktır
 fakat, kullanılan herşey açıklanarak devam edilecektir. Derslerin akışı ise yukarıda gösterdiğimiz şekilde,
 tamamıyla pratikte test ederek ve yazacağımız kodların görsel karşılıklarını görerek devam edeceğiz.
 Oyunun mekaniklerini C++ ile geliştirdiğimiz için

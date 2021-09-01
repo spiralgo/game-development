@@ -55,7 +55,7 @@ tamamıyla pratikte test ederek ve yazacağımız kodların görsel karşılıkl
 Oyunun mekaniklerini C++ ile geliştirdiğimiz için
 eğitimde de C++ programlama dili üzerinden olacaktır.
 
-## Spiralgo ile oyun geliştirme kusursuz mu ?
+## Spiralgo ile oyun geliştirme kusursuz mu?
 
 Spiralgo kusursuz mu?Sorusunda da cevapladığımız
 gibi;Doğrusu, hiçbir sistem kusursuz değildir. Her sistem, varlığını

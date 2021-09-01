@@ -103,7 +103,7 @@ hem de hızlıca para kazanma fırsatı yakalayıp geleceğini inşaa edebilecek
 ## Eğitimden kazanılan para ile ne yapacağız?
 
 Eğitimden kazandığımız geliri tekrardan eğitimin kalitesini arttırmak için harcayacağız.
-Eğitimden kazandığımız para ile siz eğitimi satın alacak kişiler için daha farklı projeler,
+Eğitimden kazandığımız gelirle, eğitimi satın alacak senin gibi kimseler için daha farklı projeler,
 yaratılıp orada iş üzerinde pratikte tecrübeleriniz artırılacaktır. Yani biz aslında
 tek bir eğitim geliştirip ve daha sonra yayınlayıp ondan para kazanıp kenara çekilmek yerine,algoritma
 ve oyun endüstrisi üzerinden kodlama yapacak olan arkadaşlara daha farklı projeler,görevler vererek

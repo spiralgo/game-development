@@ -93,7 +93,7 @@ iyi bir deneyim olacaktır.
 
 ## Eğitim ile beraber sen de projenin bir parçası olacak mısın ?
 
-Eğitimini güzel bir şekilde kavrayıp bizimle beraber problem çözüyorsan,aynı zamanda
+Eğitimini güzel bir şekilde kavrayıp bizimle beraber problem çözüyorsan; aynı zamanda
 problemleri seninle beraber tayin edip seninle beraber çözüm yolları arıyorsak ve oyun geliştirme
 ağımızın içerisin de yardımlaşmayı benimsemiş isen,sen de bizim projemizin bir parçası olacaksın hem
 mevcut projede hem de gelecekteki projelerde şans bulacaksın. Bu sayede

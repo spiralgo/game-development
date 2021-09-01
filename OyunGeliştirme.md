@@ -106,8 +106,8 @@ Eğitimden kazandığımız geliri tekrardan eğitimin kalitesini arttırmak iç
 Eğitimden kazandığımız gelirle, eğitimi satın alacak senin gibi kimseler için daha farklı projeler,
 yaratılıp orada iş üzerinde pratikte tecrübeleriniz artırılacaktır. Yani biz aslında
 tek bir eğitim geliştirip ve daha sonra yayınlayıp ondan para kazanıp kenara çekilmek yerine,algoritma
-ve oyun endüstrisi üzerinden kodlama yapacak olan arkadaşlara daha farklı projeler,görevler vererek
-onları iş dünyasına hazırlamış olacağız.Kısacası win-win stratejisini gütmüş olacağız.
+ve oyun endüstrisi üzerinden kodlama yapacak olan arkadaşlara daha farklı projeler, görevler vererek
+onları iş dünyasına hazırlamış olacağız. Kısacası win-win stratejisini gütmüş olacağız.
 
 ## Oyun geliştirme ile beraber algoritma ve yazılım öğrenmenin avantajları ne olacak?
 

@@ -19,7 +19,7 @@ geliştirme sürecinde oluşacak birçok problemle karşılaştığında nasıl
 bir yol izlemen gerektiği konusunda daha iyi bir fırsatın olacaktır.
 
 Peki neden oyun geliştirme üzerinden algoritma ve yazılım öğrenmeyi
-tercih edip daha sonra ise,proje geliştirme ve öğrenilen bilgiyi paylaşmayı
+tercih edip daha sonra ise proje geliştirme ve öğrenilen bilgiyi paylaşmayı
 tercih ettik sorusu muhâkkak sorulacaktır. Cevap aslında oldukça basit oyun geliştirme ve oyun
 endüstrisi dünya geleceği için oldukça önemli olma yolunda
 ilerlemektedir, aynı zamanda her geçen gün çok daha katma değerli bir iş

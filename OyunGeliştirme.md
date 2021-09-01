@@ -27,7 +27,7 @@ olma yolunda da ilerlemektedir.Ve ülkemizde maalesef C++ ve Unreal Engine oyun 
 geliştirme yapan kişi sayısı bile epey azdır.Bu yüzden hayali ve ilgisi olan kişi için Türkçe kaynak
 yetersizdir.Biz de uzun vadede bizimle çalışacak olan kişileri keşfetme ve bu endüstri üzerinde 
 Türkiye'de mevcut ilgiyi merak etmekteyiz.Aslında burada anlaşılacağı üzere eğitim para kazanma mentalitesinden
-daha çok hem ilgisi olan kişiler için bir imkan sunabilmeyi hedeflemekteyiz.Ayrıca oyun geliştirmeyi bizimle beraber
+daha çok ilgisi olan kişiler için bir imkan sunabilmeyi hedeflemekteyiz.Ayrıca oyun geliştirmeyi bizimle beraber
 belirli bir seviyede öğrenip başka ülkelerde iş yapabilme hayali kuran kişiler için de imkan yaratmayı hedeflemekteyiz.
 Teknik yönden cevap vermek gerekirse,öğrenmeye aday  bir problem çözücü için yazılımın ve algoritmanın
 karmaşıklıklarını daha eğlenceli hale getirip,daha çok motive edebilmek
@@ -42,7 +42,7 @@ Bu kısımda oyun içerisinde ki karakterimizin zıplaması için bir fonksiyon 
 
 Bu kısımda ise oyun yazdığımız fonksiyonun oyun içerisindeki karşılığını görmekteyiz.
 
-Yani yazılan kodlarımızı ne kadar karmaşık olursa olsun derin bir görsel bir karşılıkla test edebileceğimiz için
+Yani yazılan kodlarımızı ileriki konularda,ne kadar karmaşık olursa olsun derin bir görsel bir karşılıkla test edebileceğimiz için
 oyun geliştirme ile algoritma çalışmanın avantajını rahatlıkla görebiliriz.Örneklendirdiğimiz şekilde,ilk 
 görseldeki kod satırımızda yazılan kodlarımızı,ikinci görselde test ederek daha açıklayıcı ve öğretici
 bir biçimde gösterdik.
@@ -53,7 +53,7 @@ Dersin anlatımı terimleri ve kullanılan herşey İngilizce olacaktır
 fakat,kullanılan herşey açıklanarak devam edilecektir.Derslerin akışı ise yukarıda gösterdiğimiz şekilde,
 tamamıyla pratikte test ederek ve yazacağımız kodların görsel karşılıklarını görerek devam edeceğiz.
 Oyunun mekaniklerini C++ ile geliştirdiğimiz için
-eğitimde de C++ üzerinden olacaktır.
+eğitimde de C++ programlama dili üzerinden olacaktır.
 
 ## Spiralgo İle Oyun Geliştirme Kusursuz Mu ?
 
@@ -66,19 +66,30 @@ Spiralgo İle Oyun Geliştirme Kusursuz Mu ?Kesinlikle hayır,oluşacak probleml
 senkron bir şekilde bir bağ kurabilmek ve düzenli olarak problemlerin çözümü için
 beraber enerji harcama üzerine olacaktır.Aynı zamanda sosyal ağlar üzerinden
 asenkron bir şekilde çalışmanında zeminini hazırlamak olacaktır.
+Bu bağlamda kusurlarımızı da bize katılan arkadaşlarla geliştirme,şansımız
+olacaktır.
 
-## Projeniz Ve Siz Yeterlilik Olarak Ne Durumdasınız ?
+## Sizin Ve Projenizin Yeterlilik Durumu Nedir ?
 
-Proje yaklaşık iki senedir devam etmektedir,LinkedIn gibi sosyal
-platformlarda oyun içerisinden videolar yayınlamaktayız.Oyun önümüzdeki
-kış sezonunda muhtemelen bitmiş olacaktır.Oyun içerisinde ve sürecinde yapılan
+Yaklaşık iki senedir oyun geliştirme üzerinde çalışıyorum.
+Daha öncesinde algoritma ve yazılım üzerine çalışmalar yaptım.
+Ve bu sayede hızlı bir şekilde adapte olabildim.Daha sonra,
+geliştirmeye başladığım oyun ile alakalı Unreal Engine componentlerini
+öğrendim.Ayrıca sadece C++ üzerinden kodlama ile devam etmeyip,Unreal Engine
+içerisin de geliştirdiğim oyun ile alakalı mekanikleri öğrenme fırsatım oldu.
+Oyunun grafiksel ve mekaniksel kısımlarını yeterince iyi bir seviyeye getirdim.
+Bu bağlamda LinkedIn gibi platformlarda ise oyun için görüntüle paylaştım.
+Bir süredir LinkedIn üzerinden video güncellemesi yapamadım.Şimdi ise
+YouTube üzerinden yayınlama yapacağım için projeyi tamamlamayı
+ve temiz bir şekilde trailer videosu haline getirmek için uğraşmaktayım.
+Oyun önümüzdeki kış sezonunda muhtemelen bitmiş olacaktır.Oyun içerisinde ve sürecinde yapılan
 geliştirmeleri basitleştilmiş şekilde, videolarda açıklayarak
 göstereceğiz.Projeden bahsedecek olursak RPG bir oyun geliştirme sürecindeyiz,
 RPG oyunlar mekanik ve detaylar konusunda epey karmaşık problemler içerdiği için
-ilgimi her zaman daha çok çekmiştir.Bu yüzden öğrenme sürecinde RPG bir oyun geliştirmeye
-çalışarak öğrenmeyi deneyimleme şansım oldu.Daha fazla problem çözme fırsatının bulunduğu 
-RPG oyunumuzun problem çözücü olan senin içinde çok iyi bir deneyim ve öğrenme şansı olduğundan,
-hiç şüphe yoktur.
+her zaman daha çok ilgi çekici olmuştur.Bu bağlamda bu kadar problemin içerisinde olduğu
+bir geliştirme süreci,yeni başlayan bir kişi için oldukça fazla örneği görebilme fırsatı sağlayacaktır.
+RPG oyunların geliştirme süreci daha fazla problem içerdiği için,senin içinde
+iyi bir deneyim olacaktır.
 
 ## Eğitim İle Beraber Sen de Projenin Bir Parçası Olacak Mısın ?
 
@@ -93,10 +104,10 @@ hem de hızlıca para kazanma fırsatı yakalayıp geleceğini inşaa edebilecek
 
 Eğitimden kazandığımız para ile tekrardan eğitimin kalitesini arttırmak için harcayacağız.
 Eğitimden kazandığımız para ile siz eğitimi satın alacak kişiler için daha farklı projeler,
-yaratılıp orada sizlerin iş üzerinde pratikte tecrübeleri arttırılacaktır.Yani biz aslında
+yaratılıp orada iş üzerinde pratikte tecrübeleriniz artırılacaktır. Yani biz aslında
 tek bir eğitim geliştirip ve daha sonra yayınlayıp ondan para kazanıp kenara çekilmek yerine,algoritma
 ve oyun endüstrisi üzerinden kodlama yapacak olan arkadaşlara daha farklı projeler,görevler vererek
-onları iş dünyasına hazırlamış olacağız.
+onları iş dünyasına hazırlamış olacağız.Kısacası win-win stratejisini gütmüş olacağız.
 
 ## Oyun Geliştirme İle Beraber Algoritma Ve Yazılım Öğrenmenin Avantajları Ne Olacak?
 
@@ -106,8 +117,8 @@ sürecinin en başarılı bir şekilde devam edebilmesi ve bilgiyi öğrenecek o
 için o kişinin işten keyif alması oldukça önemlidir.Algoritma ve yazılımı yeni öğrenen bir kişi için algoritmalar
 kafa karıştırıcı veya karmaşık gelebilir,dolayısıyla motivasyon kaybı yaşayabilir.Bu yüzden öğrenme sürecinde
 olan kişiler için  öğrendiklerini dinamik olarak bir oyun içerisinde belirli bir görsel karşılık ile gözlem yapabilir. 
-Ve daha sonra oyun içerisinde test edip görerek,öğrenme sürecini daha akıcı hâle getirebilir.
-Anlaşılacağı üzere öğrenme süreci boyunca kişinin öğrendiği her bilgiyi oyun içerisinden test ederek,pratikte ki 
+Daha sonra oyun içerisinde test ederek,öğrenme sürecini daha akıcı hâle getirebilir.
+Anlaşılacağı üzere öğrenme süreci boyunca kişinin öğrendiği her bilgiyi oyun içerisinden test ederek,pratikteki 
 imkanıyla birlikte motivasyon kaybı yaşamadan öğrenebilecektir.Sonuç olarak hem daha başarılı bir 
 öğrenebilme süreci hem de bu süreçten keyif alarak öğrenebilme imkanı bulacaktır.En önemli sebebi 
 ise öğrenme sürecini oyun ile beraber yapan kişi bu süreçte oyun geliştirmeyi de öğreneceği 
